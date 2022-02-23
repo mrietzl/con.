@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <title>con.</title>
+    <!-- this is the embeded font "aktiv-grotesk" from typekit -->
+    <link rel="stylesheet" href="https://use.typekit.net/oye2svd.css" />
+
+    <!-- this is the embeded font "eczar" from google fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+        href="https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    />
+
+    <!-- this is Play CDN to try tailwindcss -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: "class",
+        };
+    </script>
+
+    <link
+        id="light"
+        rel="icon"
+        type="image/png"
+        href="social-network_favicon-lightscheme.png"
+        media="(prefers-color-scheme:light)"
+    />
+
+    <link
+        id="dark"
+        rel="icon"
+        type="image/png"
+        href="social-network_favicon-darkscheme.png"
+        media="(prefers-color-scheme:dark)"
+    />
+
+    <link rel="stylesheet" href="/bundle.css" />
+    <body class="bg-[#021A25] dark:bg-[#BF046B]">
+        <main></main>
+    </body>
+    <script src="/bundle.js"></script>
+</html>

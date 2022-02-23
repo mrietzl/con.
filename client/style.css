@@ -1,0 +1,132 @@
+/* … because we user tailwindcss, we will comment this out
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #e3e4e8;
+}
+
+.main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    color: #1c404c;
+    font-family: "Eczar";
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: 50px;
+    max-width: 600px;
+    text-align: center;
+}
+
+h2 {
+    color: #1c404c;
+    font-family: "Eczar";
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    margin: 0px 0px 25px;
+}
+
+p {
+    color: #1c404c;
+    font-family: "aktiv-grotesk";
+    font-display: auto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+}
+
+.introduction {
+    margin: 0px 0px 50px;
+}
+
+form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+}
+
+input {
+    background-color: #e3e4e8;
+    border: none;
+    border-bottom: 2px solid #1c404c;
+    color: #1c404c;
+    font-size: 16px;
+    margin: 10px;
+    padding: 0px;
+    text-align: center;
+    width: 300px;
+}
+
+::placeholder {
+    color: #8e8e8e;
+    font-family: "aktiv-grotesk";
+    font-display: auto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.mandatory {
+    font-size: 15px;
+    line-height: 25px;
+    padding-top: 15px;
+}
+
+.button-no-1 {
+    align-items: center;
+    background-color: #1c404c;
+    border: #1c404c 2px solid;
+    border-radius: 50px;
+    color: #e3e4e8;
+    display: flex;
+    font-family: "aktiv-grotesk";
+    font-display: auto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 25px 0px 25px;
+    padding: 9px 20px;
+    text-align: center;
+}
+
+.button-no-2 {
+    background-color: #e3e4e8;
+    border: #1c404c 2px solid;
+    border-radius: 50px;
+    color: #1c404c;
+    font-family: "aktiv-grotesk";
+    font-display: auto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    margin: 0px 0px 50px;
+    padding: 9px 20px;
+    text-align: center;
+}
+
+.button-no-2 a {
+    color: #1c404c;
+    text-decoration: none;
+}
+
+button:hover {
+    padding: 9px 40px;
+    transition: width 0.2s ease-out;
+}
+
+.error {
+    color: #86181b;
+    font-style: italic;
+    margin: 0px 0px 25px;
+} */
