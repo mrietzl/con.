@@ -38,6 +38,12 @@ const uploader = multer({
     },
 });
 
+// new code to access the secret keys (to make it available for heroku)
+let connectionString = process.env.DATABASE_URL;
+if (!connectionString) {
+    connectionString = require("../secrets.json").connectionString;
+}
+
 // import the ses.js for part 3:
 const ses = require("./ses.js");
 
