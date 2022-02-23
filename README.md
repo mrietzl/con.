@@ -2,7 +2,7 @@
 
 This project is a meeting platform for designer and web developer. People can create their own account, login or logout and edit their profile by uploading an picture or editing the bio. They can also delete their profile again or set a new password. Additionally other profiles can be viewed, users can search for friends send friendship requests to each other or chat together. The social network has it's own branding with a logo, a color scheme and the posibility to change between two color modi by a toggle bar. The logo within the tab bar adapts to the respective light/dark mode of the browser.
 
-<!-- Check out the 👉 [social network](…) -->
+Check out the 👉 [social network](https://social-network-con.herokuapp.com/)
 
 The project was made at the [SPICED Academy](https://www.spiced-academy.com/de) within my Full Stack Web Development Bootcamp (Nov. '21 to Feb. '22)
 
