@@ -12,8 +12,8 @@ The project was made at the [SPICED Academy](https://www.spiced-academy.com/de) 
 
 -   single page application (SPA)
 -   client-site routing with react-router
--   conditional rendering for error handeling
--   registration for new users with firstname, lastname, email and password
+-   conditional rendering for error handling
+-   registration for new users with first name, last name, email and password
 -   password hashing with bcrypt protection; the input is displayed encrypted
 -   use of functional components and class components
 -   reset password flow
