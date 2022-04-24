@@ -98,7 +98,7 @@ When people have forgotten their password they can reset it with a secured proce
 
 ### Profile Screen
 
-Individual profil page where users can upload an image, edit their bio or delete the account.
+Individual profile page where users can upload an image, edit their bio or delete the account.
 
 ![profile screen](/client/public/screens/profile.png)
 
