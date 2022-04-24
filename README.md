@@ -17,7 +17,7 @@ The project was made at the [SPICED Academy](https://www.spiced-academy.com/de) 
 -   password hashing with bcrypt protection; the input is displayed encrypted
 -   use of functional components and class components
 -   reset password flow
--   login and logout for registrated users
+-   login and logout for registered users
 -   profile component to show name and mail, add and edit a profile picture and bio
 -   incremental search to find people
 -   using Hooks as react feature for functional components
