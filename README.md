@@ -20,7 +20,7 @@ The project was made at the [SPICED Academy](https://www.spiced-academy.com/de) 
 -   login and logout for registered users
 -   profile component to show name and mail, add and edit a profile picture and bio
 -   incremental search to find people
--   using Hooks as react feature for functional components
+-   using hooks as react feature for functional components
 -   friendship button to send, accept and cancel a friend request or end the friendship again
 -   overview over all the personal friends and potential friends with the option to accept open requests or unfriend again
 -   community-wide chat room powered by socket.io
