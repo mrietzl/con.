@@ -102,7 +102,7 @@ Individual profile page where users can upload an image, edit their bio or delet
 
 ![profile screen](/client/public/screens/profile.png)
 
-### Users Screen
+### Incremental Search Screen
 
 With an incremental search users can search for friends or other people.
 
